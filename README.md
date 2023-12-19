@@ -1,0 +1,2 @@
+# State-Of-Art-Image-Classifier-Program-Artificial-Intelligence
+"Create Your Own Image Classifier" is an interactive and instructive Python-based project that immerses users in the field of machine learning and image classification. It allows users to develop a personalized image classifier by training it with their chosen dataset, offering a practical and insightful exploration into the complexities of ML.
